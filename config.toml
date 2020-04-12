@@ -142,7 +142,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = false
 
-  description = "Mi super descripcion"  
+  description = "Description"  
 
   # Customization
   # Define the behavior of the sidebar
