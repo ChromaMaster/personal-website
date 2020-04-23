@@ -33,7 +33,7 @@ canonifyurls = true
 [author]
   name = "Vlad Teletin"
   bio = ""
-  job = "Embedded Software Engineer"
+  job = "Firmware Developer"
   location = "Spain"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "thibaud.lepretre@gmail.com"
